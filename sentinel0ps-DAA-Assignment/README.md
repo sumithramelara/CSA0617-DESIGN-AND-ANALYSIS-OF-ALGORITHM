@@ -35,7 +35,7 @@ The project covers four algorithms:
 | root_cause_analysis.md | Root cause analysis and debugging traces |
 | optimization_analysis.md | Explanation of algorithm optimizations |
 | performance_report.md | Benchmark results and complexity analysis |
-| screenshots/performance_comparison.png | Benchmark output screenshot |
+| performance_comparison.png | Benchmark output screenshot |
 
 ## Requirements
 

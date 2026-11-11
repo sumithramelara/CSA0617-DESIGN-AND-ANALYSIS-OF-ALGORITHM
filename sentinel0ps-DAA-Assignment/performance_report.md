@@ -63,7 +63,7 @@ The optimized version improves execution time by avoiding repeated square-root c
 
 The benchmark output screenshot is saved at:
 
-screenshots/performance_comparison.png
+performance_comparison.png
 
 The benchmark program is available in:
 
